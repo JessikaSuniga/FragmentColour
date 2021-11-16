@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cores</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preto">PRETO</string>
+    <string name="azul">AZUL</string>
+    <string name="verde">VERDE</string>
+    <string name="vermelho">VERMELHO</string>
+    <string name="amarelo">AMARELO</string>
+</resources>
